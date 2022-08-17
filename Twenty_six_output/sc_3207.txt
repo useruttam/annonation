@@ -1,0 +1,98 @@
+July 29, 1964. 25(3) of the Indian Income-tax Act, 1922, claimed exemption from payment of tax on income earned in the relevant previous year, on the plea that the firm was carrying on business before the Indian Income-tax Act, 1922, was enacted, and on that business, tax had been charged under the provisions of the Indian Incometax Act 7 of 1918 in respect of the business done immediately before that Act was repealed
+
+It is common ground that the principal business of the assessee was as a dealer in securities. 8 of the Indian Income-tax Act, 1922
+
+Section 25(3), on the true interpretation of which the respective contentions of the assessee and the Commissioner have to be adjudged, is in the following terms: "Where any business, profession or vocation on which tax was at any time charged under the provisions of the Indian Income-tax Act, 1918 (VII of 1918), is discontinued, then, unless there has been a succession by virtue of which the provisions of sub-section (4) have been rendered applicable, no tax shall be payable in respect of the income, profits and gains of the period between the end of the previous year and the date of such discontinuance, and the assessee may further claim that the income, profits and gains of the previous year shall be deemed to have been the income, profits and gains of the said period.
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. 25(3) may be claimed by anassessee if the business is one in respect of which tax was charged at any time under the Indian Income-tax Act, 1918 and the business is discontinued-there being? a succession by virtue of which the provisions of sub-s
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s.", "labels": ["ANALYSIS"]}}, {"id": "354affe371474d3ca53125d157251065", "value": {"start": 6539, "end": 6781, "text": "Section 25(3) however applies even if the person assessed under the Income-tax Act, 1918, was different from the person who claims relief under that section provided the former was the predecessor- in-interest of such person qua the business
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. 25(3) was that under the Indian Income-tax Act 7 of 1918, income-tax was levied by virtue of s
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. 14(2) of Act 7 of 1918 on the income of the year of assessment
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s.", "labels": ["ANALYSIS"]}}, {"id": "2ce2bcf331464bca891d45b3128dac25", "value": {"start": 7052, "end": 7215, "text": "By the Indian Income-tax Act 11 of 1922 the basis of taxation was altered and by s
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s.", "labels": ["ANALYSIS"]}}, {"id": "3f274552ac41417f8f726d338c012b3a", "value": {"start": 7216, "end": 7360, "text": "When Act 1 1 of 1922 was brought into force on April 1, 1922, two assessments in respect of the same income for the year 1921-22 had to be made
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s.", "labels": ["ANALYSIS"]}}, {"id": "8252e013dd4541af8021bbdf3089fbef", "value": {"start": 7361, "end": 7626, "text": "The income for 1921-22 was accordingly charged to tax twice: it was charged under Act 7 of 1918 and it was also charge,' to tax under s
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. 3 of Act 1 1 of 1922 read with the appropriate Finance Act, resulting in double taxation in respect of the income for that year
+
+25(3).", "labels": ["ANALYSIS"]}}, {"id": "8023a40a8977419cb095bbbf4bddafa5", "value": {"start": 7809, "end": 8005, "text": "This benefit was however restricted only to the income, profits and gains of business, profession or vocation on which tax had been charged under the provisions of the Indian Income-tax Act, 1918
+
+To appreciate the point in dispute, it is necessary to bear in mind the scheme of the Act for computing the taxable income. The Commissioner of Income-tax, West Bengal(1) "the scheme of the Indian Income-tax Act, 1922, is that the various heads of income, profits and gains enumerated in s
+
+ 10 alone could be admitted to the exemption: the ,majority of the Court held that all income earned by carrying on business qualified for the exemption. 25 expressly provides that income of a business, profession or vocation which was charged at any time under Act 7 of 1918 to tax is, on discontinuance of that business
+
+ 10 alone could be admitted to the exemption: the ,majority of the Court held that all income earned by carrying on business qualified for the exemption.", "labels": ["ANALYSIS"]}}, {"id": "30bdc297d085461eb6d45163e213d6e6", "value": {"start": 12821, "end": 12983, "text": "profession or vocation, exempt from liability to tax under Act 11 at 1922 for the period between the end of the previous year and the date of such discontinuance
+
+It has also to be noticed that prior to the insertion of sub-s. 9 of the Finance Act, 1955, with affect from April 1, 1955, income from dividends was chargeable not under s
+
+10.", "labels": ["ANALYSIS"]}}, {"id": "1b95986e4e224913ae029afa2dc97f4d", "value": {"start": 19084, "end": 19472, "text": "Could it have been the intention of the Legislature that dividend income of a business in respect of which tax was charged under the head "Income from shares" under Act 7 of 1918 would not, after March 31, 1955, be entitled to the benefit of the exemption under s
+
+Section 2(4) of the Indian Income-tax Act, 1922 defines "business" as including any trade, commerce, or manufacture or any adventure or concern in the nature of trade, commerce or manufacture.
+
+Section 2(4) of the Indian Income-tax Act, 1922 defines "business" as including any trade, commerce, or manufacture or any adventure or concern in the nature of trade, commerce or manufacture. 25(3) indisputably exemption from payment of tax was intended to be given where there had been in respect of the same activity double taxation when Act 11 of 1922 was enacted
+
+There is no force in the contention raised by counsel for the Commissioner that for the year 1921-22 interest on securities could not be charged to tax twice over.", "labels": ["ANALYSIS"]}}, {"id": "26ad0e10d1544a30bbdcc589a4e275de", "value": {"start": 21739, "end": 21978, "text": "Under the Income-tax Act, 7 of 1918, by s
+
+Our attention has not been invited to any provision in the Income-tax Act 7 of 1918 which excluded from liability to tax, interest on securities for the year in which that income had accrued.
+
+Our attention has not been invited to any provision in the Income-tax Act 7 of 1918 which excluded from liability to tax, interest on securities for the year in which that income had accrued. 3 of Act 1 1 of 1922 interest on securities earned in the year 1921-22 became chargeable and under s
+
+Our attention has not been invited to any provision in the Income-tax Act 7 of 1918 which excluded from liability to tax, interest on securities for the year in which that income had accrued. 19 of the Income- tax Act, 1918
+
+Our attention has not been invited to any provision in the Income-tax Act 7 of 1918 which excluded from liability to tax, interest on securities for the year in which that income had accrued.", "labels": ["ANALYSIS"]}}, {"id": "fbe2632e60cb42549b2870c29e3e31de", "value": {"start": 23015, "end": 23165, "text": "Interest on securities earned in 1921-22 was therefore chargeable to tax under Act 7 of 1918, and it was also chargeable to tax under Act 1 1 of 1922
+
+July 29, 1964. 25(3) of the Indian Income-tax Act, 1922, claimed exemption from payment of tax on income earned in the relevant previous year, on the plea that the firm was carrying on business before the Indian Income-tax Act, 1922, was enacted, and on that business, tax had been charged under the provisions of the Indian Incometax Act 7 of 1918 in respect of the business done immediately before that Act was repealed
+
+It is common ground that the principal business of the assessee was as a dealer in securities. 8 of the Indian Income-tax Act, 1922
+
+Section 25(3), on the true interpretation of which the respective contentions of the assessee and the Commissioner have to be adjudged, is in the following terms: "Where any business, profession or vocation on which tax was at any time charged under the provisions of the Indian Income-tax Act, 1918 (VII of 1918), is discontinued, then, unless there has been a succession by virtue of which the provisions of sub-section (4) have been rendered applicable, no tax shall be payable in respect of the income, profits and gains of the period between the end of the previous year and the date of such discontinuance, and the assessee may further claim that the income, profits and gains of the previous year shall be deemed to have been the income, profits and gains of the said period.
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. 25(3) may be claimed by anassessee if the business is one in respect of which tax was charged at any time under the Indian Income-tax Act, 1918 and the business is discontinued-there being? a succession by virtue of which the provisions of sub-s
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. Section 25(3) however applies even if the person assessed under the Income-tax Act, 1918, was different from the person who claims relief under that section provided the former was the predecessor- in-interest of such person qua the business
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. 25(3) was that under the Indian Income-tax Act 7 of 1918, income-tax was levied by virtue of s
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. 14(2) of Act 7 of 1918 on the income of the year of assessment
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. By the Indian Income-tax Act 11 of 1922 the basis of taxation was altered and by s
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. When Act 1 1 of 1922 was brought into force on April 1, 1922, two assessments in respect of the same income for the year 1921-22 had to be made
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. The income for 1921-22 was accordingly charged to tax twice: it was charged under Act 7 of 1918 and it was also charge,' to tax under s
+
+Exemption from liability to pay tax in respect of the income, ,profits and gains under s. 3 of Act 1 1 of 1922 read with the appropriate Finance Act, resulting in double taxation in respect of the income for that year
+
+25(3). This benefit was however restricted only to the income, profits and gains of business, profession or vocation on which tax had been charged under the provisions of the Indian Income-tax Act, 1918
+
+To appreciate the point in dispute, it is necessary to bear in mind the scheme of the Act for computing the taxable income. The Commissioner of Income-tax, West Bengal(1) "the scheme of the Indian Income-tax Act, 1922, is that the various heads of income, profits and gains enumerated in s
+
+ 10 alone could be admitted to the exemption: the ,majority of the Court held that all income earned by carrying on business qualified for the exemption. 25 expressly provides that income of a business, profession or vocation which was charged at any time under Act 7 of 1918 to tax is, on discontinuance of that business
+
+ 10 alone could be admitted to the exemption: the ,majority of the Court held that all income earned by carrying on business qualified for the exemption. profession or vocation, exempt from liability to tax under Act 11 at 1922 for the period between the end of the previous year and the date of such discontinuance
+
+It has also to be noticed that prior to the insertion of sub-s. 9 of the Finance Act, 1955, with affect from April 1, 1955, income from dividends was chargeable not under s
+
+10. Could it have been the intention of the Legislature that dividend income of a business in respect of which tax was charged under the head "Income from shares" under Act 7 of 1918 would not, after March 31, 1955, be entitled to the benefit of the exemption under s
+
+Section 2(4) of the Indian Income-tax Act, 1922 defines "business" as including any trade, commerce, or manufacture or any adventure or concern in the nature of trade, commerce or manufacture.
+
+Section 2(4) of the Indian Income-tax Act, 1922 defines "business" as including any trade, commerce, or manufacture or any adventure or concern in the nature of trade, commerce or manufacture. 25(3) indisputably exemption from payment of tax was intended to be given where there had been in respect of the same activity double taxation when Act 11 of 1922 was enacted
+
+There is no force in the contention raised by counsel for the Commissioner that for the year 1921-22 interest on securities could not be charged to tax twice over. Under the Income-tax Act, 7 of 1918, by s
+
+There is no force in the contention raised by counsel for the Commissioner that for the year 1921-22 interest on securities could not be charged to tax twice over. Act 7 of 1918 undoubtedly made a provision in s
+
+Our attention has not been invited to any provision in the Income-tax Act 7 of 1918 which excluded from liability to tax, interest on securities for the year in which that income had accrued.
+
+Our attention has not been invited to any provision in the Income-tax Act 7 of 1918 which excluded from liability to tax, interest on securities for the year in which that income had accrued. 3 of Act 1 1 of 1922 interest on securities earned in the year 1921-22 became chargeable and under s
+
+Our attention has not been invited to any provision in the Income-tax Act 7 of 1918 which excluded from liability to tax, interest on securities for the year in which that income had accrued. 19 of the Income- tax Act, 1918
+
+Our attention has not been invited to any provision in the Income-tax Act 7 of 1918 which excluded from liability to tax, interest on securities for the year in which that income had accrued. Interest on securities earned in 1921-22 was therefore chargeable to tax under Act 7 of 1918, and it was also chargeable to tax under Act 1 1 of 1922
+

@@ -1,0 +1,8 @@
+ This raises three questions.", "labels": ["NONE"]}}, {"id": "afc83127d35b4b29874485e5693d06df", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7417, "end": 7509, "text": "This question is governed by the Criminal Procedure Code and by the Punjab Courts Act, 1918
+
+If, however, appeals from its various decrees and orders lie to different Courts, then we have to see to which of them they "ordinarily" lie and select the one of lowest grade from among them.", "labels": ["ANALYSIS"]}}, {"id": "a600251662b6409b8d1da73e195f91f1", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 13359, "end": 13989, "text": "Apart from the Courts of Small Causes and Courts established under other enactments, the Punjab Courts Act, 1918 makes provision for three classes of Civil Courts, namely- (1) the Court of the District Judge, (2) the Court of the Additional Judge, and (3) the Court of the Subordinate Judge
+
+ This raises three questions. This question is governed by the Criminal Procedure Code and by the Punjab Courts Act, 1918
+
+ Apart from the Courts of Small Causes and Courts established under other enactments, the Punjab Courts Act, 1918 makes provision for three classes of Civil Courts, namely- (1) the Court of the District Judge, (2) the Court of the Additional Judge, and (3) the Court of the Subordinate Judge.
+

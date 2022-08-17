@@ -1,0 +1,8 @@
+         Evidence Act 1972 (1 of 1872)-S.
+
+         The Judgment of the Court was delivered by KOSHAL,", "labels": ["NONE"]}}, {"id": "4c7fade0442e40cc91c71bdd369cdfe1", "value": {"start": 4989, "end": 5438, "text": "J.-This appeal by special leave is directed against the judgment dated 7th August 1973 of the Bombay High Court upholding the conviction of Sevantilal Karsondas Modi (the sole appellant before us) for an offence under section 120-B of the Indian Penal Code read with clauses (a) and (b) of sub-section (1) of section 135 of the Customs Act 1962, and a sentence of rigorous imprisonment for a year recorded by the Chief Presidency Magistrate, Bombay
+
+         Evidence Act 1972 (1 of 1872)-S.
+
+         The Judgment of the Court was delivered by KOSHAL, J.-This appeal by special leave is directed against the judgment dated 7th August 1973 of the Bombay High Court upholding the conviction of Sevantilal Karsondas Modi (the sole appellant before us) for an offence under section 120-B of the Indian Penal Code read with clauses (a) and (b) of sub-section (1) of section 135 of the Customs Act 1962, and a sentence of rigorous imprisonment for a year recorded by the Chief Presidency Magistrate, Bombay
+

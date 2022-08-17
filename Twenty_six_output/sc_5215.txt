@@ -1,0 +1,4 @@
+The Judgment of the Court was delivered by UNTWALIA, J.", "labels": ["NONE"]}}, {"id": "b09e52fbdc8641099be16feca56f3f92", "value": {"start": 2293, "end": 2447, "text": "-This is an appeal under section 2 (a) of the Supreme Court (,Enlargement of Criminal Appellate Jurisdiction) Act, 1970 by three persons who are brothers
+
+The Judgment of the Court was delivered by UNTWALIA, J.-This is an appeal under section 2 (a) of the Supreme Court (,Enlargement of Criminal Appellate Jurisdiction) Act, 1970 by three persons who are brothers
+

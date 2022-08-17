@@ -1,0 +1,45 @@
+ JUDGMENT J.:", "labels": ["NONE"]}}, {"id": "44e64d75a0bd455897672a09d252d5b4", "value": {"start": 1901, "end": 2166, "text": "These appeals and the connected matters involve for decision the common question of law relating to the meaning of "entertainment expenditure" in Section 37(2A) of the Income-tax Act, 1961 (hereinafter referred to as "the Act") during the relevant assessment years
+
+ JUDGMENT J.1976 from which date only Explanation 2 inserted in sub-section (2A) of Section 37 by the Finance Act, 1983 was applied retrospectively, even though sub-section (2A) was inserted w
+
+ JUDGMENT J.1967 by Taxation Laws (Amendment) Act, 1967
+
+ (2) Whether, on the facts and in the circumstances of the case, the expenditure in question would be allowable only to the limited extent of Rs.5,000/- under section 37(2A) of the Income-tax Act, 1961, for each of the assessment years under reference?", "labels": ["ISSUE"]}}, {"id": "8f33897e8ac743e9a56d38440bf85adf", "value": {"start": 4541, "end": 4617, "text": "Identical questions of law were referred for all the three assessment years
+
+ 1st October, 1967 by the Taxation Laws (Amendment) Act, 1967.
+
+ 1st April, 1970 by the Finance Act, 1970.
+
+ 1st April, 1970 by the Finance Act, 1970.", "labels": ["STA"]}}, {"id": "7f7e9baf14b548038213db7bbdfb231a", "value": {"start": 10081, "end": 10172, "text": "*** Explanation 2 was inserted by the Finance Act, 1983 retrospectively w
+
+ 31.3", "labels": ["ANALYSIS"]}}, {"id": "326e02fcd4a04f6cb9e3f3439e807cb2", "value": {"start": 12249, "end": 12479, "text": "Under the existing provisions of section 37(2A) of the Income-tax Act, deduction in respect of expenditure on entertainment is subject to certain limits calculated with reference to the quantum of profits as under:- (at page 2255)", "labels": ["ANALYSIS"]}}, {"id": "d3eee2328fa74ea7824e63fe2fbc3f10", "value": {"start": 12480, "end": 12684, "text": "In the Income-tax Act, 1961, Chapter IV contains provisions relating to computation of total income wherein Section D containing Sections 28 to 44D pertains to profits and gains of business or profession
+
+The finding of fact in all cases, therefore, satisfies this test to allow deduction of the expenditure incurred by each assessee and claimed under this head for the period prior to 1. 1st October, 1967 by the Taxation Laws (Amendment) Act, 1967 and Explanation 2 inserted therein by Finance Act, 1983 retrospectively w
+
+ 1. 1st April, 1970 by the Finance Act, 1970
+
+ Learned counsel for the revenue contended that Explanation 2 is clarificatory and, therefore, even without Explanation 2 the provision must be understood and construed in the same manner.", "labels": ["ANALYSIS"]}}, {"id": "391fc716cf0c43699f88ad5a2eda6cff", "value": {"start": 18909, "end": 19328, "text": "It means that the expenditure incurred by the assessees in providing ordinary meals to the outstation customers according to the established business practice, was a permissible deduction inspite of sub-section (2A) of Section 37, to which the assessees were entitled in the computation of their total income for the purpose of payment of tax under the Income-tax Act, 1961 during the relevant period prior to 1
+
+ JUDGMENT J.: These appeals and the connected matters involve for decision the common question of law relating to the meaning of "entertainment expenditure" in Section 37(2A) of the Income-tax Act, 1961 (hereinafter referred to as "the Act") during the relevant assessment years
+
+ JUDGMENT J.1976 from which date only Explanation 2 inserted in sub-section (2A) of Section 37 by the Finance Act, 1983 was applied retrospectively, even though sub-section (2A) was inserted w
+
+ JUDGMENT J.1967 by Taxation Laws (Amendment) Act, 1967
+
+ (2) Whether, on the facts and in the circumstances of the case, the expenditure in question would be allowable only to the limited extent of Rs.5,000/- under section 37(2A) of the Income-tax Act, 1961, for each of the assessment years under reference?
+
+
+ 1st October, 1967 by the Taxation Laws (Amendment) Act, 1967.
+
+ 1st April, 1970 by the Finance Act, 1970.
+
+ *** Explanation 2 was inserted by the Finance Act, 1983 retrospectively w.
+
+ 31.3 Under the existing provisions of section 37(2A) of the Income-tax Act, deduction in respect of expenditure on entertainment is subject to certain limits calculated with reference to the quantum of profits as under:- (at page 2255) In the Income-tax Act, 1961, Chapter IV contains provisions relating to computation of total income wherein Section D containing Sections 28 to 44D pertains to profits and gains of business or profession
+
+ Sub-section (2A) was inserted w. 1st October, 1967 by the Taxation Laws (Amendment) Act, 1967 and Explanation 2 inserted therein by Finance Act, 1983 retrospectively w
+
+ 1. 1st April, 1970 by the Finance Act, 1970
+
+ In our opinion, the construction we have made of the provision as it existed during the relevant period flows not merely from the language of the provision but also matches with the object thereof. It means that the expenditure incurred by the assessees in providing ordinary meals to the outstation customers according to the established business practice, was a permissible deduction inspite of sub-section (2A) of Section 37, to which the assessees were entitled in the computation of their total income for the purpose of payment of tax under the Income-tax Act, 1961 during the relevant period prior to 1
+
